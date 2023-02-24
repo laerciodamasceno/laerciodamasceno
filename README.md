@@ -26,5 +26,5 @@ Estou em um novo cenário da minha vida, após 10 anos que terminei a graduaçã
 
 ## Contato
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/#6577)    
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/1035225373966880789)    
 
