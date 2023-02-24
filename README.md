@@ -10,8 +10,8 @@ Estou em um novo cenário da minha vida, após 10 anos que terminei a graduaçã
 
 
 <div align="center">
- <img height="100px" src="https://github-readme-stats.vercel.app/api?username=laerciodamasceno&show_icons=true&theme=tokyonight"/>
- <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laerciodamasceno&layout=compact&theme=tokyonight"/>
+ <img height="120px" src="https://github-readme-stats.vercel.app/api?username=laerciodamasceno&show_icons=true&theme=tokyonight"/>
+ <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laerciodamasceno&layout=compact&theme=tokyonight"/>
 </div>
 
 ## Estudando no momento
