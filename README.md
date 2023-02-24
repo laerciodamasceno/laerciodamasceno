@@ -25,5 +25,5 @@ Estou em um novo cenário da minha vida, após 10 anos que terminei a graduaçã
 
 ## Contato
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/laerciodamasceno)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laerciodamasceno)
 
